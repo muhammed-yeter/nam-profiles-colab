@@ -1,0 +1,2 @@
+ESR (Error Signal Rate): %98.80
+Epoches : 1650
